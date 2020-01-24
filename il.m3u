@@ -49,3 +49,25 @@ https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on%7
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8?sd=10&rebase=on%7CUser-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/44.0.2403.157%20Safari/537.36&Referer=http://radio.sport5.co.il
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="",هلا تي في
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 group-title="ISRAEL",Channel 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 group-title="ISRAEL",HaHadashot 12 (Opt-1)
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 group-title="ISRAEL",HaHadashot 12 (Opt-2)
+http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
+#EXTINF:-1 group-title="ISRAEL",HaHadashot 12 (Opt-3)
+http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
+#EXTINF:-1 group-title="ISRAEL",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 group-title="ISRAEL",Kan Educational
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 group-title="ISRAEL",Keshet 12 (New!)
+http://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av-p.m3u8
+#EXTINF:-1 group-title="ISRAEL",Knesset Channel (Opt-1)
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ISRAEL",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 group-title="ISRAEL",Shopping Channel (Opt-1)
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4
+#EXTINF:-1 group-title="ISRAEL",Sport 5 (New!)
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
