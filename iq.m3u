@@ -105,3 +105,29 @@ http://116.203.71.169/hls/stream1.m3u8
 https://5cc309e93b721.streamlock.net/8412/8412/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-country="IQ" tvg-url="" group-title="General",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IRAQ",Al Masar Al Oula
+http://212.18.231.213:1935/almasar/_definst_/almasar_source/chunklist.m3u8
+#EXTINF:-1 group-title="IRAQ",Al Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 group-title="IRAQ",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 group-title="IRAQ",Alhurra (Opt-1)
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="IRAQ",Alhurra (Opt-2)
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:-1 group-title="IRAQ",Alrafidain (EG)
+http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF:-1 group-title="IRAQ",AshurSat (New!)
+https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IRAQ",Assyrian National Broadcasting (New!)
+https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
+#EXTINF:-1 group-title="IRAQ",Babylon TV
+https://babylonlive.net/babylontv/kardokardo.m3u8
+#EXTINF:-1 group-title="IRAQ",Music Haneen
+http://streaming.i-sat.tv:1935/livestream/MusicAl-haneen/chunklist_w379649003.m3u8
+#EXTINF:-1 group-title="IRAQ",Samarra TV
+http://212.18.231.213:1935/samarra/samarra_160p/chunklist_w579537662.m3u8
+#EXTINF:-1 group-title="IRAQ",Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="IRAQ",Türkmeneli (New!)
+http://116.203.71.169/hls/stream1.m3u8
