@@ -65,3 +65,49 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_t64TFE=.m3u8
 #EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
+#EXTINF:-1 group-title="LEBANON",Aghani Aghani (New!)
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+#EXTINF:-1 group-title="LEBANON",Al Jadeed (Opt-1)
+http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LEBANON",Al Jadeed (Opt-2)
+http://youness-export.com/tv/aljadeed
+#EXTINF:-1 group-title="LEBANON",Al Manar (Opt-1)
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1 group-title="LEBANON",Al Manar (Opt-2)
+http://live2.mediaforall.net:1935/liveorigin/livestream_360p/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LEBANON",Al Manar (Opt-3)
+http://live3.mediaforall.net/liveorigin/livestream_360p/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LEBANON",Al Manar (Opt-4)
+https://stream.fastpublish.net/ALManarLive/index.m3u8
+#EXTINF:-1 group-title="LEBANON",Al Mayadeen (Opt-1)
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+#EXTINF:-1 group-title="LEBANON",Al Mayadeen (Opt-2)
+http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
+#EXTINF:-1 group-title="LEBANON",Arabica Music (New!)
+http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF:-1 group-title="LEBANON",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 group-title="LEBANON",Hawacom TV
+http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
+#EXTINF:-1 group-title="LEBANON",LBC
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="LEBANON",LDC (Opt-1)
+http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
+#EXTINF:-1 group-title="LEBANON",LDC (Opt-2)
+http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
+#EXTINF:-1 group-title="LEBANON",MTV (Opt-1)
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
+#EXTINF:-1 group-title="LEBANON",MTV (Opt-2)
+http://95.170.215.109/hls/MTV-Backup-M.m3u8
+#EXTINF:-1 group-title="LEBANON",NBN (Opt-1)
+http://youness-export.com/tv/nbn
+#EXTINF:-1 group-title="LEBANON",NBN (Opt-2)
+http://livecdnh1.tvanywhere.ae/hls/nbn/index.m3u8
+#EXTINF:-1 group-title="LEBANON",OTV (Opt-1)
+http://youness-export.com/tv/otv
+#EXTINF:-1 group-title="LEBANON",OTV (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
+#EXTINF:-1 group-title="LEBANON",OTV (Opt-3)
+http://95.170.215.109/hls/m3u8/OTV-Backup.m3u8
+#EXTINF:-1 group-title="LEBANON",Tele Liban (New!)
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06.m3u8
