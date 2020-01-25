@@ -321,3 +321,165 @@ http://109.68.40.67/life/magnolia_3/index.m3u8
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="yuzhnaya-volna" tvg-name="Южная волна" tvg-language="Ukrainian" tvg-logo="" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",7 Kanal Odessa
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",24 Kanal
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1 group-title="UKRAINE",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="UKRAINE",112 Ukraine (Opt-1)
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",112 Ukraine (Opt-2)
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",112 Ukraine (Opt-3)
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",Academy
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Arhat TV
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Black Sea TV
+http://live-blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Chernіveckij Promіn
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",Chernіvtsі
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",ChP Info
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1 group-title="UKRAINE",Dumskaya-TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Eko TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="UKRAINE",Espreso TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="UKRAINE",Galichina
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1 group-title="UKRAINE",HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",Hromadske TV
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",ID Fashion (Opt-1) (New!)
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",ID Fashion (Opt-2) (New!)
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",ID Fashion (Opt-3) (New!)
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",Inshyy TV
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Inter (Opt-1) (New!)
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Inter (Opt-2) (New!)
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",INTV
+http://5.58.64.7:7777/udp/237.0.1.1:1234
+#EXTINF:-1 group-title="UKRAINE",ITV
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",K1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1 group-title="UKRAINE",Kilia Kontakt
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",KRT
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 group-title="UKRAINE",KTK Odessa
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",M2
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="UKRAINE",Malyatko TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="UKRAINE",Maxxi TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 group-title="UKRAINE",Music Box
+http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UKRAINE",Novorossia TV
+http://dprtv.phoenix-dnr.ru/novorossia-tv
+#EXTINF:-1 group-title="UKRAINE",NTA
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",NTK TV
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="UKRAINE",OTV (Opt-1)
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="UKRAINE",OTV (Opt-2)
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="UKRAINE",OTV (Opt-3)
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 group-title="UKRAINE",ONT
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="UKRAINE",Oplot TV
+http://dprtv.phoenix-dnr.ru/oplot-tv
+#EXTINF:-1 group-title="UKRAINE",Pershij Dilovij (Opt-1)
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",Pershij Dilovij (Opt-2)
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Pershij Zahіdnij
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Pervyj Gorodskoj Odessa (Opt-1)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Pervyj Gorodskoj Odessa (Opt-2)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Rada TV
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 group-title="UKRAINE",Renome
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="UKRAINE",Reporter TV
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Rudana
+http://134.249.128.243/hls/stream.m3u8
+#EXTINF:-1 group-title="UKRAINE",Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",SК1
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",STB Odessa
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Svarozhichi
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Telekanal Prjamij
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="UKRAINE",TIS Odessa
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Tretiy Cifrovoy
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",TRK 555
+http://trk555.tv:8888/live
+#EXTINF:-1 group-title="UKRAINE",TRK Krug Odessa
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",TV 5
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",TV Dom
+http://78.26.128.21:1234
+#EXTINF:-1 group-title="UKRAINE",TVA
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",TV5 Zaporizhzhia (New!)
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",TV7+
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 group-title="UKRAINE",Tvoj Pljus
+http://62.64.92.118:8080/Apple/1/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",UATV (Opt-2)
+https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="UKRAINE",UA: Donbas
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="UKRAINE",UA: First
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="UKRAINE",UA: Krym
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="UKRAINE",UA: Kultura
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 group-title="UKRAINE",UA: Odessa (New!)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
+#EXTINF:-1 group-title="UKRAINE",UA: Zakarpattya (New!)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1 group-title="UKRAINE",Union
+http://dprtv.phoenix-dnr.ru/union
+#EXTINF:-1 group-title="UKRAINE",Vozrozhdenie
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+#EXTINF:-1 group-title="UKRAINE",Yuzhnaja Volna
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1 group-title="UKRAINE",Zdorove Odessa
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
