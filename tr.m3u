@@ -179,3 +179,201 @@ https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" tvg-country="TR" tvg-url="" group-title="",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 group-title="TURKEY",Africa Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Afyon Turk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Ahi TV Kirsehir
+http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Akit TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="TURKEY",Alanya TV
+http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Altaş TV
+http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Ben TV
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+#EXTINF:-1 group-title="TURKEY",Bereket Hayvancilik (Opt-2)
+https://mtzerfslulaflive.mediatriple.net/mtzerfslulaflive/broadcast_5a1ebda4744d6.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Beşiktaş Web TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 group-title="TURKEY",Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="TURKEY",Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 group-title="TURKEY",CNN Turk (Opt-1)
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",CNN Turk (Opt-2)
+https://cdn.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",CNN Turk (Opt-3)
+http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",CNN Turk (Opt-5)
+http://212.224.80.91/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",CRI Türk (CN)
+http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
+#EXTINF:-1 group-title="TURKEY",Çekmekoy Web TV
+http://live.wowzatv.net:1935/belediye/belediye/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Dersim 62
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Demiroren News Agency
+http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
+#EXTINF:-1 group-title="TURKEY",Diyalog TV (Opt-1)
+https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist_w744215973.m3u8
+#EXTINF:-1 group-title="TURKEY",Diyalog TV (Opt-2)
+http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Doğuş TV
+http://s01.vpis.io/dogustv/dogustv.m3u8
+#EXTINF:-1 group-title="TURKEY",Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",Dreamturk TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",DRT Denizli TV
+http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/DRTTV.m3u8
+#EXTINF:-1 group-title="TURKEY",ETV Manisa
+https://broadcasttr.com:446/manisaetv/bant1/chunklist_w149497199.m3u8
+#EXTINF:-1 group-title="TURKEY",Eurostar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TURKEY",Finans Turk TV
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Fortuna TV
+http://1.rtmp.org/tv117/yayin.stream/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",FRT TV Fethiye
+http://broadcasttr.com:1935/frttv/smil:frttv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Guneydoğu TV
+http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Haber 61 Trabzon
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
+#EXTINF:-1 group-title="TURKEY",Istanbul Metropolitan Municipality
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 3 (Opt-1)
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 3 (Opt-2)
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 5
+https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 15 Burdur
+http://waw1.artiyerelmedya.net:1935/kanal15/bant1/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 19
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 33
+http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal 101
+http://s01.vpis.io/kanal101/kanal101.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal D (Opt-1)
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal D (Opt-2)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal D (Opt-3)
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal Urfa (Opt-1)
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TURKEY",Kanal Urfa (Opt-3)
+http://stream.taksimbilisim.com:1935/kanalurfa/smil:kanalurfa.smil/.m3u8
+#EXTINF:-1 group-title="TURKEY",Kay TV Kayseri
+http://yayin3.canlitv.com:1935/canlitv/kaytv/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Kon TV Konya
+http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Koy TV (Opt-1)
+http://195.244.32.3/koytv/live/chunks.m3u8
+#EXTINF:-1 group-title="TURKEY",KRAL Performans
+http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",KRAL Pop
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",KRAL Pop Akustik
+http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",KRAL Pop Konser
+https://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",KRAL TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",KRAL World TV
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TURKEY",Kudüs TV
+http://yayin10.canliyayin.org/P981680400/kudustv/chunklist_w1008271460.m3u8
+#EXTINF:-1 group-title="TURKEY",Line TV
+https://broadcasttr.com:446/linetv/bant1/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Marmaris TV (Opt-1)
+http://yayin3.canlitv.com:1935/canlitv/marmaristv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Marmaris TV (Opt-2)
+https://59cba4d34b678.streamlock.net/canlitv/marmaristv/chunklist_w1134892921.m3u8
+#EXTINF:-1 group-title="TURKEY",Meclis TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 group-title="TURKEY",Medya Haber
+http://137.74.205.201/live1/mh-3mbps.m3u8
+#EXTINF:-1 group-title="TURKEY",Merkez TV Bolu
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Meteoroloji TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TURKEY",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="TURKEY",ON4 TV (Opt-1)
+http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Power TV
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist.sltur.m3u8
+#EXTINF:-1 group-title="TURKEY",Powerturk TV
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
+#EXTINF:-1 group-title="TURKEY",Rehber TV
+http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist_w1174978711.m3u8
+#EXTINF:-1 group-title="TURKEY",Royal TV
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 group-title="TURKEY",Satranç TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="TURKEY",Siteler TV
+http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Star TV (Opt-1)
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Star TV (Opt-2)
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",TD1
+http://play.streamkit.tv/content/channel/yecmobile/live/yecmobile.player.m3u8
+#EXTINF:-1 group-title="TURKEY",Teve2 (Opt-1)
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Teve2 (Opt-2)
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1 group-title="TURKEY",TGRT Belgesel TV
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Tivitürk TV
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="TURKEY",TLC (Opt-1)
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 group-title="TURKEY",TLC (Opt-2)
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1 group-title="TURKEY",Trakya Turk TV
+http://live.arkumedia.com:1935/trakyaturktv/trakyaturktv/.m3u8
+#EXTINF:-1 group-title="TURKEY",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title="TURKEY",TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 group-title="TURKEY",TRT Çocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 group-title="TURKEY",TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 group-title="TURKEY",TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 group-title="TURKEY",TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 group-title="TURKEY",Türkiyem
+https://waw2.artiyerelmedya.net/turkiyemtv/bant1/chunklist_w114827257.m3u8
+#EXTINF:-1 group-title="TURKEY",Tuzla Web TV
+http://tuzlawebtv.netmedya.org:1935/tuzlawebtv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",TV4
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",UçanKuş TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 group-title="TURKEY",Vuslat TV (Opt-1)
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Vuslat TV (Opt-2)
+https://59cba4d34b678.streamlock.net/live/vuslattv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Woman TV
+https://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:-1 group-title="TURKEY",Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:-1 group-title="TURKEY",Yeni Malatyaspor TV
+http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
+#EXTINF:-1 group-title="TURKEY",Yildiz TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
