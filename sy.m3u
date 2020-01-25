@@ -43,3 +43,29 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
 http://82.137.248.16:1935/Ugarit/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4x2uwpx.png" tvg-country="SY" tvg-url="" group-title="",Ugarit TV
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+#EXTINF:-1 group-title="SYRIA",ANN (GB)
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 group-title="SYRIA",Halab Today (Opt-1)
+http://wowzacontrol.com:1935/8010/8010/chunklist_w231158337.m3u8
+#EXTINF:-1 group-title="SYRIA",Halab Today (Opt-2)
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w1747926320.m3u8
+#EXTINF:-1 group-title="SYRIA",Lana
+https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
+#EXTINF:-1 group-title="SYRIA",Lana Plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+#EXTINF:-1 group-title="SYRIA",Orient TV (AE)
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
+#EXTINF:-1 group-title="SYRIA",Sama TV
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:-1 group-title="SYRIA",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SYRIA",Syrian Drama TV (Opt-1)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
+#EXTINF:-1 group-title="SYRIA",Syrian Education (Opt-1)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
+#EXTINF:-1 group-title="SYRIA",Syrian News (Opt-1)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:-1 group-title="SYRIA",Syrian TV (Opt-2)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syriatv
+#EXTINF:-1 group-title="SYRIA",Ugarit TV (Opt-1) (No-Feed)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
