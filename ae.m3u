@@ -283,3 +283,131 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+#EXTINF:-1 group-title="UAE",Abu Dhabi Drama (Opt-1)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 group-title="UAE",Abu Dhabi Drama (Opt-2)
+http://adtv.ercdn.net/addrama/addrama_480p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 group-title="UAE",AD Sports 1 (SD)
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 group-title="UAE",AD Sports 1 (HD)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="UAE",AD Sports 2 (SD)
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 group-title="UAE",AD Sports 2 (HD)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="UAE",AD Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="UAE",AD Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="UAE",AD Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 group-title="UAE",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
+#EXTINF:-1 group-title="UAE",Ajman TV
+http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+#EXTINF:-1 group-title="UAE",Al Hadath
+http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+#EXTINF:-1 group-title="UAE",B4U Aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
+#EXTINF:-1 group-title="UAE",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
+#EXTINF:-1 group-title="UAE",beIN Sports (New!)
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
+#EXTINF:-1 group-title="UAE",Cartoon Network
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 group-title="UAE",Citruss TV
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+#EXTINF:-1 group-title="UAE",Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 group-title="UAE",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 group-title="UAE",Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 group-title="UAE",Fast TV (No-Feed)
+http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
+#EXTINF:-1 group-title="UAE",Majid
+http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8?v=523056464
+#EXTINF:-1 group-title="UAE",MBC 1 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC 1 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC 2 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC 2 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC 3 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC 3 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC 4 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC 4 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC Action (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC Action (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC Bollywood (Opt-1)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF:-1 group-title="UAE",MBC Bollywood (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
+#EXTINF:-1 group-title="UAE",MBC Drama (SD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
+#EXTINF:-1 group-title="UAE",MBC Drama (HD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:-1 group-title="UAE",MBC Max (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",MBC Max (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
+#EXTINF:-1 group-title="UAE",National Geographic AD (New!)
+http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo
+#EXTINF:-1 group-title="UAE",OSN Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+#EXTINF:-1 group-title="UAE",Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
+#EXTINF:-1 group-title="UAE",Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
+#EXTINF:-1 group-title="UAE",Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+#EXTINF:-1 group-title="UAE",Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+#EXTINF:-1 group-title="UAE",Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
+#EXTINF:-1 group-title="UAE",Rotana Khalijiah
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/index.m3u8
+#EXTINF:-1 group-title="UAE",Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 group-title="UAE",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE",Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE",Sharqiya Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE",Spacetoon (Opt-1)
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1 group-title="UAE",Spacetoon (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:-1 group-title="UAE",Spacetoon (Opt-3)
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w2129290003_b346000_slAR.m3u8
+#EXTINF:-1 group-title="UAE",Star Movies (SD)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Star Movies (HD)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Star World (SD)
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Star World (HD)
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="UAE",Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+#EXTINF:-1 group-title="UAE",Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/index.m3u8
