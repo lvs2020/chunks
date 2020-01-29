@@ -771,3 +771,284 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlis
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Yupp TV Telugu Classics (New!)
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Hindi News",$ News 18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Hindi News 2",$ Republic Bharat High
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
+#EXTINF:-1 group-title="Hindi News 2",$ News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Hindi News 2",$ India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
+#EXTINF:-1 group-title="Hindi News 2",$ ABP Hindi
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Hindi News 2",$ ABP Hindi
+https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Hindi News 2",$ CNBC Awaaz HIGH
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Hindi News 2",$ CNBC Awaaz LOW
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Hindi News 2",$ Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 group-title="English News 2",$ CNBC Prime HD
+http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
+#EXTINF:-1 group-title="English News 2",$ Times Now HD
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Nat Geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1659750600.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ CGTN Documentary Aus.
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Foodie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Better Nature US
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Better Life US
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Better Health US
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Insight
+http://jiocgwhub.jio.ril.com/Insight/Insight_600.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ FTV High
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ FTV Med
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ FTV Low
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="Infotainment 2",$ Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Hindi Music",$ Pop Hungama Hits
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 group-title="Hindi Music",$ Nazrana (Ghazals)
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:-1 group-title="Hindi Music",$ JOO MUSIC
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music",$ Kadak Hungama Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1 group-title="Hindi Music",$ Dilse Hungama Hits
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 group-title="Telugu",$ TBO
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/index.m3u8
+#EXTINF:-1 group-title="Telugu",$ TBO
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelpre.stream_all/index.m3u8
+#EXTINF:-1 group-title="Telugu",$ TBO
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/index.m3u8
+#EXTINF:-1 group-title="Kannada",$ News18 Kannada
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ News18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Tamil Classics
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w1355462645_b1296000.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Athavan TV HD
+http://81.24.198.44/A-HI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Athavan News
+http://81.24.198.44/AthavanTR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Athavan Music
+http://81.24.198.44/A-MI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 group-title="Tamil 2",$ Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:-1 group-title="Regional",$ Prudent TV
+http://jiocgehub.jio.ril.com/PrudentHD/PrudentHD_600.m3u8
+#EXTINF:-1 group-title="Regional",$ Goa 24x7
+http://jiocgehub.jio.ril.com/InGoa24x7/InGoa24x7_600.m3u8
+#EXTINF:-1 group-title="Regional",$ News18 Rajasthan
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Regional",$ News18 UP/UK
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Regional",$ News18 MP/CG
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Regional",$ News18 Bihar/JK
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Regional",$ News 18 UP/UK
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Regional",$ News 18 Rajasthan
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Regional",$ News 18 MP/CG
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Regional",$ News 18 Bih/Jh
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Marathi",$ News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Marathi",$ ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Assamese",$ News18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Malayalam",$ Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="Malayalam",Mazhavil Manorama
+http://cdn.asianetmobiletvplus.com/channels/mazhavil_aoylhoymbydtgthnottekwcaadirrwds/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam",Kairali TV
+http://cdn.asianetmobiletvplus.com/channels/96272aad4b5ada1d8fd587e1b1dd1f9c.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam",Kairali We
+http://cdn.asianetmobiletvplus.com/channels/kairaliwe_dtpsegnkizckaewcmywrbvdgrgtcpobj/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam",Kappa TV AMT
+http://cdn.asianetmobiletvplus.com/channels/kappatv_wsyxggijkbpbogyztlaabikcteidmllw/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam",Janam TV
+http://cdn.asianetmobiletvplus.com/channels/f37bff642f5dc806b740066f70f27955.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",News18 Kerala AMT
+http://cdn.asianetmobiletvplus.com/channels/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_hls/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_master.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Safari TV AMT
+http://cdn.asianetmobiletvplus.com/channels/safaritv_rvrgapyjmzqsvssrmloerrrgsslatdao/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Channel 24 AMT
+http://cdn.asianetmobiletvplus.com/channels/twentyfour_1d45cf54bd3bfb2fea822cf94909e4e8/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Channel D JTV SD
+http://jiocgehub.jio.ril.com/ChannelDHD/ChannelDHD_400.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:-1 group-title="Malayalam 2",$ News18 Kerala
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Malayalam 2",ACV News AMT
+http://cdn.asianetmobiletvplus.com/channels/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",$ Garshom
+http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Malayalam 2",$ Malayalam Television
+http://62.210.149.2:1935/7036/7036/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",$ Pulari TV
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 group-title="Malayalam 2",$ Victers
+http://live.wmncdn.net/victers/live.stream/index.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Darshana TV AMT
+http://cdn.asianetmobiletvplus.com/channels/darshanatv_182e49b123bba332580c019dfa660bcd/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",$ Regional TV
+http://account4.livebox.co.in//infomaxhls/live.m3u8
+#EXTINF:-1 group-title="Malayalam 2",$ Kerala Express
+http://150.242.21.2/keralaexpress.m3u8?bandwidth=956&playlistlength=25&shift=0
+#EXTINF:-1 group-title="Malayalam 2",$ Anand TV
+https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Malayalam 2",ACV AMT
+http://cdn.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",ACV Jukebox AMT
+http://cdn.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Rosebowl AMT
+http://cdn.asianetmobiletvplus.com/channels/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Asianet Medley AMT
+http://cdn.asianetmobiletvplus.com/channels/95ef9473f8e0c8898d58b16300dbb7b5/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Asianet Utsav AMT
+http://cdn.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam 2",Asianet Utsav Plus AMT
+http://cdn.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 group-title="Odia",$ News18 Odia
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Gujarati",$ News18 Gujarati
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Gujarati",$ Dhamaal
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+#EXTINF:-1 group-title="Gujarati",$ ABP Asmita
+https://abp-i.akamaihd.net:443/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:-1 group-title="Gujarati",$ ABP Asmita
+https://abp-i.akamaihd.net/hls/live/765532-b/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Gujarati",$ GSTV News High
+https://cdnlive.livecast.io/560828843292539228453915.m3u8
+#EXTINF:-1 group-title="Bangla",$ ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_136.m3u8
+#EXTINF:-1 group-title="Bangla",$ ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Bangla",$ NEWS18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ ABP Sanjha
+https://abp-i.akamaihd.net/hls/live/765533-b/abpsanjha/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ ABP Sanjha
+https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/masterhls_1564.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ Aaho Music
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ News 18 Punjab/Har/Him
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ SteelBird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ Punjabi TadkaMusic
+https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ Prime Asia TV
+http://jiocgehub.jio.ril.com:80/Prime_Asia_Tv/Prime_Asia_Tv_600.m3u8
+#EXTINF:-1 group-title="Punjabi 2",$ News18 Pun/Har/Him
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Punjabi 2",TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Punjabi Tadkaa
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1 group-title="Punjabi 2",PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Pitaara
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 group-title="Punjabi 2",PBN Music
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Gurbaani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1 group-title="Punjabi 2",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Fateh TV Int
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 group-title="Punjabi 2",Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 group-title="Punjabi 2",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Canada Star TV
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi 2",Punjabi Tv Canada
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 group-title="Devotional",$ Yoga TV Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Devotional",$ MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="Devotional",$ MTA 1
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+#EXTINF:-1 group-title="Devotional",$ MTA 3
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Urdu",$ Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1 group-title="Urdu",$ Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1 ,# News 18 Urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+#EXTINF:-1 group-title="English Channels 2",$ Hollywood M1
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_600.m3u8
+#EXTINF:-1 group-title="English Channels 2",$ Hollywood M2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_600.m3u8
+#EXTINF:-1 group-title="English Channels 2",$ Hollywood M3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_600.m3u8
+#EXTINF:-1 group-title="WORLDWIDE",Q Stream
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
