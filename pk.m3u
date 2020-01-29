@@ -1,31 +1,22 @@
 #EXTM3U
 #EXTINF:-1,PK | HUM TV HD
 http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/44860.m3u8
-
 #EXTINF:-1,P2 HUM TV HD
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/34164.m3u8
-
 #EXTINF:-1,*PK- Hum Tv Europe UK AF*
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/32753.m3u8
-
 #EXTINF:-1,alliptvlinks.com PK | HUM TV HD
 http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/44860
-
 #EXTINF:-1,MY: Documentary Bil Arabie
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/90768.m3u8
-
 #EXTINF:-1,UK- ARY Family AF
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/32740.m3u8
-
 #EXTINF:-1,P2 ARY FAMILY
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/34130.m3u8
-
 #EXTINF:-1,P2 ARY DIGITAL ASIA
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/34179.m3u8
-
 #EXTINF:-1,UK-  ARY FAMILY
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/23354.m3u8
-
 #EXTINF:-1,*PK - ARY DIGITAL
 http://95.154.194.14:8000/live/DlrSUqOZ2k/lFcKAenHiB/29623.m3u8
 #EXTINF:-1 group-title="News",92 News
