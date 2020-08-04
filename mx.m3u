@@ -1,105 +1,69 @@
-#EXTINF
-#EXTINF:-1 group-title="MEXICO",15TV Sabinas (Opt-1)
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",15TV Sabinas (Opt-2)
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://i.imgur.com/MeaSmiv.jpg" tvg-country="MX" tvg-url="" group-title="",15TV Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",ADN 40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" tvg-country="MX" tvg-url="" group-title="",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Aprende TV
-https://srvstream01.televisioneducativa.gob.mx/hls/aprendetv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca Uno
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 4 Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 6 Morelia
-http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 10 Cancun (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" tvg-country="MX" tvg-url="" group-title="",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-language="" tvg-logo="http://images.mi.tv/channels/mx_azteca-7_m.png" tvg-country="MX" tvg-url="" group-title="",Azteca 7
+https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vakdxny.jpg" tvg-country="MX" tvg-url="" group-title="",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 10 Cancun (Opt-2)
-http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 10 Durango
-http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 15 Zacatecas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vakdxny.jpg" tvg-country="MX" tvg-url="" group-title="",Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g9zTQcC.jpg" tvg-country="MX" tvg-url="" group-title="Local",CANAL 15 Zacatecas
 http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 15 Fresnillo
-http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 66 Mexicali (New!)
-http://streamingcws10.com:1935/canal66/videocanal66/chunklist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal Once Nacional
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal Once Internacional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" tvg-country="MX" tvg-url="" group-title="",Canal Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Capacita TV
-https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",CB TV Morelia
-http://streamingcws20.com:1935/cbtv/videocbtv/chunklist_w404614212.m3u8
-#EXTINF:-1 group-title="MEXICO",Ciudad TV (Opt-1)
-http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Ciudad TV (Opt-2)
-http://23.227.189.81:80/ciudadtv/abr_ciudadtv/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",FOROtv (Opt-1)
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Hidalgo TV
-http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
-#EXTINF:-1 group-title="MEXICO",Ingenio TV
-https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-1)
-http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-2)
-https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
-#EXTINF:-1 group-title="MEXICO",Irapuato TV
-http://streamingcws20.com:1935/irapuatotv/videoirapuatotv/chunklist_w1996003046_DVR.m3u8
-#EXTINF:-1 group-title="MEXICO",Mexiquense Toluca
-https://5ca9af4645e15.streamlock.net/mexiquense/videomexiquense/FluxusTV.m3u8
-#EXTINF:-1 group-title="MEXICO",Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 group-title="MEXICO",Multimedios Guadalajara
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Multimedios Laguna
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Multimedios CDMX
-https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",MVM Noticias Oaxaca
-http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 group-title="MEXICO",Nuestravision Michoacan
-http://189.204.137.189:8888/m3u8/canal6.m3u8
-#EXTINF:-1 group-title="MEXICO",Presumiendo Mexico
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",RCG 2 Saltillo
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",RCG 3 Saltillo
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",RTQ Queretaro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qxse0jH.png" tvg-country="MX" tvg-url="" group-title="",De Película
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0CcFViG.png" tvg-country="MX" tvg-url="" group-title="",Dominio Deportivo Dominical
+https://api.new.livestream.com/accounts/dominio/events/8405951/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p2y6Fbd.png" tvg-country="MX" tvg-url="" group-title="",EWTN
+https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hMtKE60.png" tvg-country="MX" tvg-url="" group-title="",Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KiKtVbb.png" tvg-country="MX" tvg-url="" group-title="",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KiKtVbb.png" tvg-country="MX" tvg-url="" group-title="",Milenio TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" tvg-country="MX" tvg-url="" group-title="",MONTE MARIA | SD (MX)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7BE9Cpp.png" tvg-country="MX" tvg-url="" group-title="",MTV (Latinoamérica)
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios
+https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=https://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/czXDdQC.jpg" tvg-country="MX" tvg-url="" group-title="",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" tvg-country="MX" tvg-url="" group-title="",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Sipse TV Cancun
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",SQCS Chetumal
-http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Telemar Campeche
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" tvg-country="MX" tvg-url="" group-title="",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" tvg-country="MX" tvg-url="" group-title="",TELEFORMULA
+https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" tvg-country="MX" tvg-url="" group-title="",TELEFORMULA
+https://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/viRPSln.png" tvg-country="MX" tvg-url="" group-title="",Telemar Campeche TV
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/viRPSln.png" tvg-country="MX" tvg-url="" group-title="",Telemar Campeche TV
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Telebachillerato
-https://srvstream01.televisioneducativa.gob.mx/hls/telebachillerato.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Teleritmo
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="MEXICO",Telesecundaria
-https://srvstream01.televisioneducativa.gob.mx/hls/telesecundaria.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Telesecundaria Mas
-https://srvstream01.televisioneducativa.gob.mx/hls/telesecundariamas.m3u8
-#EXTINF:-1 group-title="MEXICO",Transmedia TV Morelia
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
-#EXTINF:-1 group-title="MEXICO",TRC TV Campeche
-http://video7.stream.mx:1935/8010/8010/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO",Ultra TV Puebla
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
-#EXTINF:-1 group-title="MEXICO",Ultra TV Aguascalientes
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" tvg-country="MX" tvg-url="" group-title="",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxRpFPk.jpg" tvg-country="MX" tvg-url="" group-title="",Uno TV
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
