@@ -1,155 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="Religious",Aghapy TV
-http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:-1 ,Al Fath TV
-https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
-#EXTINF:-1 ,Al Hayat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="",Al Fath TV
+https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HocMyE.jpg" tvg-country="EG" tvg-url="" group-title="",Al Hayat
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
-#EXTINF:-1 ,Al Kahera Wal Nas
-http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
-#EXTINF:-1 ,Al Nahar Drama
-http://149.100.10.162:8001/play/s25
-#EXTINF:-1 ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
-#EXTINF:-1 ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Al Nahar Drama
-http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
-#EXTINF:-1 ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
-#EXTINF:-1 ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Al Nahar TV
-http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
-#EXTINF:-1 ,Al Thaneya
-http://149.100.10.162:8001/play/s21
-#EXTINF:-1 ,Al-Nahar One
-http://149.100.10.162:8001/play/s24
-#EXTINF:-1 ,Alhayah TV
-http://livecdnh2.tvanywhere.ae/hls/hayat/02.m3u8
-#EXTINF:-1 ,Alhayah TV
-http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
-#EXTINF:-1 ,Alhayah TV
-http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:-1 ,CBC
-http://149.100.10.162:8001/play/s27
-#EXTINF:-1 ,CBC
-http://95.170.215.109/hls/CBC-Backup-M.m3u8
-#EXTINF:-1 group-title="Movies",CBC Drama
-http://149.100.10.162:8001/play/s26
-#EXTINF:-1 group-title="Movies",CBC Drama
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1 ,CBC Sofra
-http://149.100.10.162:8001/play/s29
-#EXTINF:-1 ,CBC Sofra
-http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
-#EXTINF:-1 group-title="Movies",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
-#EXTINF:-1 group-title="Movies",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
-#EXTINF:-1 group-title="Movies",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1 group-title="Movies",DMC HD
-http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
-#EXTINF:-1 ,Elsharq El Awast
-https://mn-nl.mncdn.com/elsharq_me/live/playlist.m3u8
-#EXTINF:-1 ,Elsharq TV
-http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
-#EXTINF:-1 group-title="News",Extra News
-http://149.100.10.162:8001/play/s28
-#EXTINF:-1 group-title="Music",Mazzika
-http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
-#EXTINF:-1 ,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1 ,MBC Masr 1
-http://149.100.10.162:8020/play/s88
-#EXTINF:-1 ,MBC Masr 1
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/02.m3u8
-#EXTINF:-1 ,Mekameleen TV
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 ,Mekameleen TV
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 ,Mekameleen TV
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b800000.m3u8
-#EXTINF:-1 ,Mekameleen TV
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 ,Mekameleen TV
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8?__mn_sid=6592483289574006816
-#EXTINF:-1 ,Nile Cinema
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
-#EXTINF:-1 ,Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
-#EXTINF:-1 ,Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
-#EXTINF:-1 ,Nile News
-http://213.162.202.13:231
-#EXTINF:-1 group-title="Sport",Nile Sport
-http://213.162.202.13:229
-#EXTINF:-1 ,ON Drama
-http://149.100.10.162:8011/play/s235
-#EXTINF:-1 ,ON Drama
-http://149.100.10.162:8018/play/s214
-#EXTINF:-1 ,ON E
-http://149.100.10.162:8011/play/s237
-#EXTINF:-1 ,ON E
-http://149.100.10.162:8018/play/s216
-#EXTINF:-1 ,ON Live
-http://149.100.10.162:8011/play/s236
-#EXTINF:-1 ,ON Live
-http://149.100.10.162:8018/play/s215
-#EXTINF:-1 group-title="Sport",ON Sport
-http://149.100.10.162:8011/play/s234
-#EXTINF:-1 group-title="Sport",ON Sport
-http://149.100.10.162:8018/play/s213
-#EXTINF:-1 ,Sada Elbalad
-http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
-#EXTINF:-1 ,The Kingdom Sat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://elsharq.tv/img/elsharq.png" tvg-country="EG" tvg-url="" group-title="General",Al Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qmhfPpd.png" tvg-country="EG" tvg-url="" group-title="General",CBC Sofra
+http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cla9w5J.jpg" tvg-country="EG" tvg-url="" group-title="Kids",Koky Kids
+http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2416.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="",MBC Masr 1
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="",MBC Masr 2
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" tvg-country="EG" tvg-url="" group-title="",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6xa14aQ.png" tvg-country="EG" tvg-url="" group-title="",The Kingdom Sat
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Religious",Watan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" tvg-country="EG" tvg-url="" group-title="Religious",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 group-title="EGYPT",Al Kahera Wal Nas
-http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
-#EXTINF:-1 group-title="EGYPT",Al Nahar (CA)
-http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
-#EXTINF:-1 group-title="EGYPT",Al Nahar Drama (CA)
-http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
-#EXTINF:-1 group-title="EGYPT",Alhayat TV
-http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:-1 group-title="EGYPT",Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="EGYPT",CBC
-http://95.170.215.109/hls/CBC-Backup-M.m3u8
-#EXTINF:-1 group-title="EGYPT",CBC Drama
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1 group-title="EGYPT",CBC Sofra (Opt-2)
-http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
-#EXTINF:-1 group-title="EGYPT",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1 group-title="EGYPT",Elsharq Elawsat
-http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
-#EXTINF:-1 group-title="EGYPT",Elsharq TV
-http://cdg3.edge.tmed.pw/elsharqtv/abr/elsharqtv/live_1024p/chunks.m3u8
-#EXTINF:-1 group-title="EGYPT",MBC Masr
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_msr/index.m3u8
-#EXTINF:-1 group-title="EGYPT",MBC Masr (Opt-2)
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
-#EXTINF:-1 group-title="EGYPT",MEA TV (US)
-http://uni8rtmp.tulix.tv:1935/meatv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="EGYPT",Nile Cinema (New!)
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
-#EXTINF:-1 group-title="EGYPT",Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
-#EXTINF:-1 group-title="EGYPT",Rotana Masrya
-http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
-#EXTINF:-1 group-title="EGYPT",Sada Elbalad
-http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
-#EXTINF:-1 group-title="EGYPT",Watan TV (Opt-1)
-http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
-#EXTINF:-1 group-title="EGYPT",Watan TV (Opt-2)
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
